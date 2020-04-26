@@ -9,9 +9,10 @@ Uses r/India link and predicts the flair(category) of the link accordingly.
 
 > pip install -r requirements.txt
 
-1. Download 'model_out' folder from the link : model_out and place it in the root directory
-2. Run 'deploy.py' and go on to localhost:5000
-3. Run Code.ipynb 
+1. Download 'model_out' folder from the link : [Drive Link](https://drive.google.com/open?id=14fJHK5DtEUOOjgfD1OX5WwB8snfwjV3a)
+2. Place 'model_out' folder it in the root directory
+3. Run 'deploy.py' and go on to localhost:5000
+
 
 
 ## Steps for automated_testing:-
